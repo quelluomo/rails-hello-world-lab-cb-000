@@ -285,3 +285,7 @@ ActionView::MissingTemplate (Missing template static/hello_world, application/he
   /usr/local/rvm/rubies/ruby-2.6.1/lib/ruby/2.6.0/webrick/server.rb:307:in `block in start_thread'
 
 
+  Rendered /usr/local/rvm/gems/ruby-2.6.1/gems/actionpack-4.2.11.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (3.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.6.1/gems/actionpack-4.2.11.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.6.1/gems/actionpack-4.2.11.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.6.1/gems/actionpack-4.2.11.1/lib/action_dispatch/middleware/templates/rescues/missing_template.html.erb within rescues/layout (31.9ms)
