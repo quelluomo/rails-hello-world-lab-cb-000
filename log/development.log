@@ -289,3 +289,8 @@ ActionView::MissingTemplate (Missing template static/hello_world, application/he
   Rendered /usr/local/rvm/gems/ruby-2.6.1/gems/actionpack-4.2.11.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
   Rendered /usr/local/rvm/gems/ruby-2.6.1/gems/actionpack-4.2.11.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
   Rendered /usr/local/rvm/gems/ruby-2.6.1/gems/actionpack-4.2.11.1/lib/action_dispatch/middleware/templates/rescues/missing_template.html.erb within rescues/layout (31.9ms)
+
+
+Started GET "/hello_world" for 176.207.207.75 at 2019-05-17 09:19:19 +0000
+Processing by StaticController#hello_world as HTML
+  Rendered static/hello_world.html.erb within layouts/application (0.3ms)
